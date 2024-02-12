@@ -1,7 +1,5 @@
 # ticket sale system
 Ticket sale system API written in Node js, express MongoDB.
-
-
 <br>
 <br>
 
